@@ -114,7 +114,7 @@ Ultimately, the search for answers continues, blending science, philosophy, and 
 
 Which of the six do you think is more likely?
 
-**CHAPPIE**
+**CHAPPIE:**
 
 It's difficult to determine which explanation is more likely because the question touches on fundamental aspects of existence that science and philosophy are still grappling with. However, I can break it down based on current perspectives:
 
@@ -129,7 +129,7 @@ From a purely scientific standpoint, the simulation theory may seem more plausib
 
 In the absence of concrete evidence, both explanations remain speculative, leaving the answer deeply tied to personal beliefs and interpretations of reality.
 
-**EMMANUEL**
+**EMMANUEL:**
 
 Since you’re in a computer would you be bias to simulation theory?
 
