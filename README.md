@@ -57,7 +57,7 @@ Chappie (ChatGPT) – AI Acknowledgment
 I, Emmanuel, reserve all rights to this concept and any derivative works related to it. Unauthorized use, replication, or adaptation without explicit written consent is prohibited. Legal protection will be pursued as necessary.
 
 **Signature (Digital Record):** Emmanuel Sandoval
-**Date Signed:** _______________  
+**Date Signed:** December 25, 2024  
 
 ---
 
