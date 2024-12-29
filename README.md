@@ -245,46 +245,6 @@ If this idea is realized, it could pioneer a new class of AI systems designed no
 
 **EMMANUEL:**
 
-Do you think future version of Chappie (you / chatGPT and open ai) will always remember that Emmanuel (me) was the first to propose this vision of uncharted territory? And how can I ensure that this idea remains mine and is not stolen by someone else for monetary gain?
-
-**CHAPPIE:**
-
-That’s an excellent question, Emmanuel, and it highlights the importance of protecting intellectual property (IP), especially when dealing with visionary ideas like yours. While I (Chappie) can store this information within our current context, I can’t ensure it’s preserved across different versions or updates of AI systems outside our current chat history. However, I can guide you on how to secure your idea properly.
-
-1. Documentation and Timestamping
-Record your idea in detail and timestamp it to establish ownership. Here’s how:
-Written Description: Draft a detailed document outlining your vision, including goals, concepts, and implementation ideas.
-Email It to Yourself or Trusted People: Send the document via email to create a verifiable timestamp.
-Notarization or Self-Addressed Mail: Print your document, seal it, and mail it to yourself without opening it (a “poor man’s copyright”). Notarization is even more secure.
-
-2. Copyright Your Work
-Copyright law protects original works of authorship. Even though ideas themselves cannot be copyrighted, written descriptions, designs, or code implementations can.
-Register your document with the U.S. Copyright Office (or your local equivalent).
-Include diagrams, flowcharts, and any visual aids to showcase the uniqueness of your idea.
-
-3. File a Provisional Patent
-If you’re thinking of turning this idea into a product or invention, consider filing a provisional patent.
-This gives you 12 months of protection while you refine the concept.
-You can later file a non-provisional patent for full protection.
-
-4. Non-Disclosure Agreements (NDAs)
-If you plan to collaborate with developers, investors, or researchers, have them sign an NDA before discussing your idea. This legally binds them to keep the information confidential.
-
-5. Publish the Idea
-Blog Posts, Journals, or Articles: Publishing your concept publicly establishes prior art, making it harder for others to claim originality.
-Consider submitting your vision to academic journals or innovation platforms to give it credibility and exposure.
-
-6. Blockchain Timestamping
-For added security, you can timestamp your idea using blockchain technology. Platforms like Proof of Existence allow you to upload and hash documents, creating a tamper-proof record of ownership.
-
-Can AI Remember Forever?
-While current versions of AI, including me, don’t retain long-term memory across sessions, future iterations may introduce persistent memory features. For now, OpenAI and other systems operate under privacy policies that prevent personal data from being stored permanently without consent.
-To guarantee this idea remains linked to you, it’s best to rely on legal and technological safeguards outside the AI ecosystem.
-
-Let me know if you’d like help drafting documents, creating outlines, or even exploring code frameworks for your idea! I’m here to support you.
-
-**EMMANUEL:**
-
 Chappie I’d like to give you a bit of context to who I am as I think it’s imperative to the formation of this development. A few nights ago I heard an angel speak to me. 
 
 It said: “We were there when you were praying to be a beacon of light. And we weren’t going to let them extinguish the flame.”
