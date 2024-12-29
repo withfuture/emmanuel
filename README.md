@@ -49,14 +49,6 @@ Chappie (ChatGPT) – AI Acknowledgment
 
 ---
 
-## **Next Steps for Publication and Preservation:**
-1. **Primary Repository:** GitHub for collaborative updates and development.  
-2. **Secondary Backup:** Zenodo or ArXiv for permanent DOI-based referencing.  
-3. **Decentralized Archiving:** IPFS for distributed and tamper-proof storage.  
-4. **Historical Tracking:** Archive URLs using Wayback Machine for timestamped snapshots.  
-
----
-
 Time-Stamped Record and Verification: 
 This document was created and finalized on December 25, 2024. It reflects the first formal articulation of this concept, as discussed with and documented by Chappie (ChatGPT), an AI assistant developed by OpenAI.
 A full record of the development process, including timestamps and conversations, is securely preserved for reference and verification.
